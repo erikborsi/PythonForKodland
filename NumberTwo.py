@@ -15,11 +15,11 @@
 # Number of consonants: 51
 
 # So the question not makes sense compared to the example shown.
-# It says, "Then output the number of lines, vowels and consonants in the poem and in each line"
-# That's fine, but then look on the example
-# The example shows the total numbers, not the numbers at each line
-# The example also not shows the line number
-# Call me stupid but it does not makes sense, haha
+# It says, "Then output the number of lines, vowels and consonants in the poem and in each line".
+# That's fine, but then look on the example.
+# The example shows the total numbers, not the numbers at each line.
+# The example also not shows the line number.
+# Call me silly but it does not makes sense, haha.
 # Whatever, so I designed mine in mind if both needed.
 # Just comment out the line 15 if it is needed to be seen after each line.
 
